@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Time complexity</string>
+
+    <string name="make_calculate">Calculate</string>
+    <string name="enter_number">Enter size</string>
+    <string name="enter_thread_pool">Enter number of Thread Pool</string>
+    <string name="zero">0</string>
+</resources>
